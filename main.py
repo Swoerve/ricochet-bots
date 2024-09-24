@@ -1,5 +1,4 @@
 from curses import wrapper
-from re import X
 
 class Game():
 
